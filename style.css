@@ -1,0 +1,74 @@
+*{
+    padding: o;
+    margin: 0;
+    box-sizing: border-box;
+  
+}
+body{
+    background-color: rgb(24, 123, 153);
+    color: white;
+    font-family: sans-serif;
+}
+
+.btn{
+width: 89px;
+height: 20px;
+ border-radius: 5px 5px 5px 5px;
+ background-color: rgb(99, 196, 196);
+ outline: none;
+ border: none;
+ position: relative;
+ margin: auto;
+ cursor: pointer;
+ font-family: Georgia, 'Times New Roman', Times, serif;
+ margin-top: 50px;
+
+}
+
+
+ .fives{
+ 
+     width: 100px;
+     height: 100px;
+  
+     margin: auto;
+  
+ }
+
+ .btn:hover{
+     transition: 0.2;
+     box-shadow: aqua 1px 2px;
+     background-    color: rgb(190, 177, 177);
+ }
+
+ .text{
+     border: aqua 5px solid;
+     border-radius: 55px 55px 55px 55px;
+     padding-top: 30px;
+     background-color: rgb(197, 157, 82);
+     width: 60%;
+     height: 500px;
+    text-align:center ;
+     margin: auto;
+    margin-top: 15vh;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+ }
+ .text #quote {
+ 
+font-size: 30px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+ }
+#quote{
+    margin-top: 40px;
+}
+
+ .text #author{
+     margin-top: 100px;
+     font-size: 50px;
+     text-align: right;
+     margin-right: 20px;
+     color: teal;
+ }
+
